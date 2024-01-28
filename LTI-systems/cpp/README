@@ -1,0 +1,10 @@
+MECHTRON 4AX3 MvM
+
+Start for a discrete LTI system class. Demo
+
+Uses Eigen
+
+LTI.cpp and LTI.h and test code in main.cpp
+can be compiled with
+g++ LTI.cpp main.cpp
+

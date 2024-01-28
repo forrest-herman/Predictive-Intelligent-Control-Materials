@@ -1,0 +1,1 @@
+Finding the (local) maximum in a sampled signal should be done using interpolation. Given the following template code implement the procedure find_max a quadratic LLS to find the maximal value of the data points generated

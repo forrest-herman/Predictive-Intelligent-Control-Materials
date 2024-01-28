@@ -1,0 +1,13 @@
+
+
+Code pieces for the LQR of the lander
+
+Kalman as the observer,
+DARE as the controller
+fall.cpp has the equations for the lander
+
+main.cpp shoes ho to use the DARE.
+
+
+Ask me if you think somehting is not right,
+ask in the lecture if you not sure what to do.
